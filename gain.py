@@ -3,3 +3,7 @@ a=10
 b=20
 c=a+b
 print(c)
+e=30
+f=50
+g=f-e
+print(g)
