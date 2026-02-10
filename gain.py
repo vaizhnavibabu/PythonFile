@@ -7,3 +7,7 @@ e=30
 f=50
 g=f-e
 print(g)
+h=20
+i=10
+j=h/i
+print(j)
