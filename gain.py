@@ -13,3 +13,8 @@ else:
 
 print("finally it is printed successfully")
 
+c=int(input("enter the height of the triangle :"))
+area=0.5*b*c
+print("the area of the triangle is:",area)
+
+
